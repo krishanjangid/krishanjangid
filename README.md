@@ -1,5 +1,5 @@
 ### Hi there! I'm Krishan Kumar Jangid 👋
-**I am a [Freelancer Software Developer at Fiverr](https://www.fiverr.com/jangidkrishan)
+**I am a [Freelancer Software Developer at Fiverr](https://www.fiverr.com/jangidkrishan)**
 - 💻 I Love Computers and Programming
 - 🌱 I’m currently learning node.js and react
 - 👯 I’m looking to collaborate on React development
