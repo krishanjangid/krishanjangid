@@ -1,5 +1,5 @@
 <h1 align="left" id="krishanjangid-title">Hi there! I'm Krishan Kumar Jangid 👋</h1>
-<h3>I am a<a href="https://www.fiverr.com/jangidkrishan"> Freelancer Software Developer at Fiverr<img src="https://rajeduboard.rajasthan.gov.in/new2.GIF"></a> and <a href=""https://www.youtube.com/channel/UCZLZYguErApKOyRVKXKr8og>Youtuber</h2>
+<h3>I am a<a href="https://www.fiverr.com/jangidkrishan"> Freelancer Software Developer at Fiverr</a> and <a href=""https://www.youtube.com/channel/UCZLZYguErApKOyRVKXKr8og>Youtuber <img src="./assets/new2.gif"></h2>
 
 <h3 id="git-analytics">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git Analytics</h3>
  
