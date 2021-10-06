@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning node.js and react
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
-- 🙋‍♂️ Social media
+
   
