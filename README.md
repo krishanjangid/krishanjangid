@@ -1,5 +1,5 @@
 <h1 align="left" id="krishanjangid-title">Hi there! I'm Krishan Kumar Jangid 👋</h1>
-<h3>I am a<a href="https://www.fiverr.com/jangidkrishan"> Freelancer Software Developer at Fiverr</a> and <a href=""https://www.youtube.com/channel/UCZLZYguErApKOyRVKXKr8og>Youtuber <img src="./assets/new2.gif"></h2>
+<h3>I am a Passionate Frontend Developer</h3>
 
 <h3 id="git-analytics">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git Analytics</h3>
  
@@ -8,8 +8,7 @@
   </a>
   
 - 💻 I Love Computers and Programming
-- 🌱 I’m currently learning node.js and react
-- 👯 I’m looking to collaborate on Youtube
+- 🌱 I’m currently learning Javascript
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
 
   ### 🛠 &nbsp;Tech Stack <a href="#krishanjangid-title">
