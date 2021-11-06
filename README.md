@@ -52,9 +52,6 @@
 <h2>Git Stats</h2>
 <br/>
 <div>
-<p align="center">
-<img width="700"src="https://github-readme-streak-stats.herokuapp.com/?user=krishanjangid&theme=algolia">
-</p>
   <a href="#choose-pinned-repositories">
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
   </a>
