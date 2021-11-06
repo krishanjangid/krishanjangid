@@ -49,7 +49,7 @@
 [linkedin]: https://linkedin.com/in/kkjangid
 [Medium]: https://kkjangid.medium.com
 [Stackoverflow]: https://stackoverflow.com/users/10436327/k-k-jangid
-<h2>KK Jangid's Git Stats</h2>
+<h2>Git Stats</h2>
 <br/>
 <div>
 <a href=".UnderlineNav-item selected">
