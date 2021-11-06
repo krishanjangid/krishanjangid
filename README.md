@@ -52,7 +52,7 @@
 <h2>Git Stats</h2>
 <br/>
 <div>
-<a href=".UnderlineNav-item selected">
+<a href="#choose-pinned-repositories">
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
   </a>
 <a href="#choose-pinned-repositories">
