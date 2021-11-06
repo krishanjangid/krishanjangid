@@ -56,7 +56,7 @@
 <a href="#krishanjangid-title">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
   </a>
-<a href="#choose-pinned-repositories">
+<a href="">
   <img src="https://github-readme-stats.vercel.app/api?username=krishanjangid&theme=algolia&show_icons=true" alt="Krishan Kumar Jangid" align="right">
   </a>
 
