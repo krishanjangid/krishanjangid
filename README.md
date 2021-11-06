@@ -1,20 +1,25 @@
-<h1 align="left" id="krishanjangid-title">Hi there! I'm Krishan K. Jangid 👋</h1>
-<h3>I am a Passionate Frontend Developer</h3>
+### Hi there, I'm KK Jangid 👋
 
-<h3 id="git-analytics">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git Analytics</h3>
- 
-<a href="#krishanjangid-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishanjangid&theme=algolia&show_icons=true" alt="Krishan Kumar Jangid" align="right">
-  </a>
-  
+[![Twitter Follow](https://img.shields.io/twitter/follow/krishan_jangid5?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkrishan_jangid5&screen_name=Krishan_Jangid5)
+
+## I'm a Passionate Frontend Developer!!
 - 💻 I Love Computers and Programming
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning react js
+- 👯 I’m looking to collaborate with other folks
+- ⚡ Fun fact: I love to play video games (BGMI)
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
 
-  ### 🛠 &nbsp;Tech Stack <a href="#krishanjangid-title">
+### Connect with me:
 
-  <img widht="600" height="235" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
-  </a>
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Medium | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
+[<img align="left" alt="Stack Overflow | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][Stackoverflow]
+
+<br />
+
+### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -36,4 +41,23 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=yellow)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Sublime](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+  
+<br />
+<br />
+
+---
+[twitter]: https://twitter.com/krishan_jangid5
+[instagram]: https://instagram.com/officialkrishanjangid
+[linkedin]: https://linkedin.com/in/kkjangid
+[Medium]: https://kkjangid.medium.com
+[Stackoverflow]: https://stackoverflow.com/users/10436327/k-k-jangid
+
+
+<a href="#krishanjangid-title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
+  </a>
+<a href="#choose-pinned-repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishanjangid&theme=algolia&show_icons=true" alt="Krishan Kumar Jangid" align="right">
+  </a>
+
   
