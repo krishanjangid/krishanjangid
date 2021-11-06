@@ -42,16 +42,15 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Sublime](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
   
-<br />
-<br />
 
----
+
 [twitter]: https://twitter.com/krishan_jangid5
 [instagram]: https://instagram.com/officialkrishanjangid
 [linkedin]: https://linkedin.com/in/kkjangid
 [Medium]: https://kkjangid.medium.com
 [Stackoverflow]: https://stackoverflow.com/users/10436327/k-k-jangid
-
+<h2>KK Jangid's Git Stats</h2>
+<br/>
 <div>
 <a href=".UnderlineNav-item selected">
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
@@ -60,6 +59,10 @@
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=krishanjangid&theme=algolia&show_icons=true" alt="Krishan Kumar Jangid" align="left">
   </a>
   </div>
+  <br/>
+  <br/>
+  
+  ----
  
 
   
