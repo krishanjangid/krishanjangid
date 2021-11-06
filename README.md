@@ -4,7 +4,7 @@
 
 ## I'm a Passionate Frontend Developer!!
 - 💻 I Love Computers and Programming
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning Javascript(react js)
 - 👯 I’m looking to collaborate with other folks
 - ⚡ Fun fact: I love to play video games (BGMI)
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
