@@ -52,6 +52,7 @@
 <h2>Git Stats</h2>
 <br/>
 <div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krishanjangid&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <a href="#choose-pinned-repositories">
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
   </a>
