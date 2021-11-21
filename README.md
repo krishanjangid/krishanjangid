@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to play video games (BGMI)
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
 
-### Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="18px">
+### Connect with me:
 
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
