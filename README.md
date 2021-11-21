@@ -1,4 +1,4 @@
-### Hi there, I'm KK Jangid 👋
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> Hi there, I'm KK Jangid 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/krishan_jangid5?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkrishan_jangid5&screen_name=Krishan_Jangid5)
 
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to play video games (BGMI)
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
 
-### Connect with me:
+### Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="18px">
 
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -49,8 +49,9 @@
 [linkedin]: https://linkedin.com/in/kkjangid
 [Medium]: https://kkjangid.medium.com
 [Stackoverflow]: https://stackoverflow.com/users/10436327/k-k-jangid
-<h2>Git Stats</h2>
+<h2><img src="https://c.tenor.com/Ln8A4FCJWkgAAAAi/fire-emoji-fire.gif" height="22px">  Git Stats </h2>
 <br/>
+
 <div>
   <a href="#choose-pinned-repositories">
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
