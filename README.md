@@ -1,6 +1,11 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> Hi there, I'm KK Jangid 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/krishan_jangid5?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkrishan_jangid5&screen_name=Krishan_Jangid5)
+![Github](https://img.shields.io/github/followers/krishanjangid?logo=GitHub&style=flat-square )
+[![Linkedin: Krishan Jangid](https://img.shields.io/badge/-KK%20Jangid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kkjangid/)](https://www.linkedin.com/in/kkjangid/)
+[![Twitter: Krishan Jangid](https://img.shields.io/twitter/follow/krishan_jangid5?logo=twitter&style=flat-square)](https://twitter.com/krishan_jangid5)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=krishanjangid&left_color=gray&right_color=blue)
+[![Medium Badge](https://img.shields.io/badge/-@KK%20Jangid-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kkjangid)](https://medium.com/@kkjangid)
+
 
 ## I'm a Passionate Frontend Developer!!
 - 💻 I Love Computers and Programming
@@ -9,15 +14,11 @@
 - ⚡ Fun fact: I love to play video games (BGMI)
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
 
-### Connect with me:
+##
+👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/kkjangid) and add to my knowledge! 
 
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Medium | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
-[<img align="left" alt="Stack Overflow | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][Stackoverflow]
+<a href="https://www.buymeacoffee.com/kkjangid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
 
-<br />
 
 ### Languages and Tools:
 
