@@ -11,7 +11,7 @@
 - 💻 I Love Computers and Programming
 - 🌱 I’m currently learning Javascript(react js)
 - 👯 I’m looking to collaborate with other folks
-- ⚡ Fun fact: I love to play video games (BGMI)
+- ⚡ Fun fact: I love to play video games
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
 
 ##
