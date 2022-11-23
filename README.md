@@ -13,11 +13,6 @@
 - 👯 I’m looking to collaborate with other folks
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
 
-##
-👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/kkjangid) and add to my knowledge! 
-
-<a href="https://www.buymeacoffee.com/kkjangid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
-
 
 ### Languages and Tools:
 
