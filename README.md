@@ -9,7 +9,7 @@
 
 ## I'm a Passionate Frontend Developer!!
 - 💻 I Love Computers and Programming
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and Robotic's
 - 👯 I’m looking to collaborate with other folks
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
 
