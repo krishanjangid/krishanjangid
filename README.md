@@ -7,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@KK%20Jangid-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kkjangid)](https://medium.com/@kkjangid)
 
 ## I'm a Passionate Frontend Developer!!
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
+<img width="350" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
 
 - 💻 I Love Computers and Programming
 - 🌱 I’m currently learning Javascript and Robotic's
