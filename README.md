@@ -49,10 +49,10 @@
 
 <div>
   <a href="#choose-pinned-repositories">
-    <img width="450" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krishanjangid&&layout=compact&langs_count=8&theme=algolia&show_icons=true" alt="Krishan Kumar Jangid" >
+    <img width="420" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krishanjangid&&layout=compact&langs_count=8&theme=algolia&show_icons=true" alt="Krishan Kumar Jangid" >
   </a>
 <a href="#choose-pinned-repositories">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=krishanjangid&theme=algolia&show_icons=true" alt="Krishan Kumar Jangid" align="left">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=krishanjangid&theme=algolia&show_icons=true" alt="Krishan Kumar Jangid" align="left">
   </a>
   </div>
   <br/>
