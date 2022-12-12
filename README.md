@@ -6,13 +6,14 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=krishanjangid&left_color=gray&right_color=blue)
 [![Medium Badge](https://img.shields.io/badge/-@KK%20Jangid-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kkjangid)](https://medium.com/@kkjangid)
 
-
 ## I'm a Passionate Frontend Developer!!
+
 - 💻 I Love Computers and Programming
 - 🌱 I’m currently learning Javascript and Robotic's
 - 👯 I’m looking to collaborate with other folks
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
 
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
 
 ### Languages and Tools:
 
@@ -48,19 +49,18 @@
 
 <div>
   <a href="#choose-pinned-repositories">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
+    <img width="450" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krishanjangid&&layout=compact&langs_count=8&theme=algolia&show_icons=true" alt="Krishan Kumar Jangid" >
   </a>
 <a href="#choose-pinned-repositories">
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=krishanjangid&theme=algolia&show_icons=true" alt="Krishan Kumar Jangid" align="left">
   </a>
   </div>
-  
   <br/>
   <br/>
   
   ----
  
-  <img width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=krishanjangid&&layout=compact&langs_count=8&theme=algolia&show_icons=true" alt="Krishan Kumar Jangid" >
+ 
  
 
   
