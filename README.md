@@ -10,7 +10,7 @@
 <img width="350" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
 
 - 💻 I Love Robot's, Computers and Programming
-- 🌱 I’m currently learning Python and Robotic's
+- 🌱 I’m currently learning Python(Django) and Robotic's
 - 👯 I’m looking to collaborate with other folks
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
 
@@ -19,6 +19,8 @@
 ## Favorite Tech 
 > Tools, languages, and environments I enjoy working with
 
+![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -34,8 +36,7 @@
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![bash](https://img.shields.io/badge/Bash-1A0000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
-![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+
 
 [twitter]: https://twitter.com/krishan_jangid5
 [instagram]: https://instagram.com/officialkrishanjangid
