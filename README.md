@@ -9,7 +9,7 @@
 ## I'm a Passionate Fullstack Developer!!
 <img width="350" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanjangid&layout=compact&langs_count=8&theme=algolia" alt="Krishan Kumar Jangid" align="right">
 
-- 💻 I Love Robot's, Computers and Programming
+- 💻 I Love Computers and Programming
 - 🌱 I’m currently learning Python(Django) and Robotic's
 - 👯 I’m looking to collaborate with other folks
 - 💬 Catch me up on **Discord** `krishanjangid#1954` or send me an [Email](mailto:krishanjangid516@gmail.com)
